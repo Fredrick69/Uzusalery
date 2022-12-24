@@ -1,0 +1,37 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
+
+
+
+
+body
+{
+    z-index: 0;
+    background-image:url("https://cdn.discordapp.com/attachments/1053157648285040750/1053813184944939019/IMG_1228.png");
+    background-size:cover;
+}
+
+h3{
+    color: cornsilk;
+}
